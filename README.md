@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SefySP
 - 👀 I’m interested in Game Dev
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on FOSS
+- 💞️ I’m looking to contribute on FOSS
 - 📫 How to reach me Discord .SefySP.#0161
 
 <!---
